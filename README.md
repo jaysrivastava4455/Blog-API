@@ -13,7 +13,7 @@ Implemented JWT-based  token system for the authentication to secure the API. It
 clone this project.
 
 ```bash
-  
+  https://github.com/jaysrivastava4455/Blog-AP
 ```
 Go to the project directory
 
